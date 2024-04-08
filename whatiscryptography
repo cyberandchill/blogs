@@ -1,0 +1,11 @@
+Cryptography is like a secret language used to keep information safe. Imagine you have a treasure map you only want your best friend to read. You might invent a code where each letter is replaced by a symbol or another letter. Only you and your friend know the secret to decoding it, so even if someone else finds your map, they won't be able to understand it. This is the essence of cryptography: transforming information so only the intended recipient can understand it.
+
+In the digital world, cryptography is used everywhere to protect sensitive information. When you send a message on your phone, shop online, or check your bank account, cryptography helps keep that information safe from prying eyes. It turns your private information into a scrambled message that only the recipient can unscramble and read.
+
+There are two main types of cryptography. The first type is like the secret code between you and your friend, where you both know the secret to decoding the message. This is called symmetric cryptography, and it's fast and efficient for devices that share a secret key. However, sharing the key safely is a challenge because anyone who gets it can read your messages.
+
+The second type is like having a special lock and key for sending treasure chests. If you want to send a treasure chest to your friend, you use their lock, which only they have the key to open. This way, even if someone intercepts the chest, they can't open it. This is called asymmetric cryptography or public-key cryptography. It uses two keys: a public key that everyone can see (like the lock) and a private key that only the owner knows (like the key to the lock). This method is great for when people who don't already share a secret need to communicate securely.
+
+Cryptography also ensures that the information hasn't been tampered with and can verify who sent the message. So, in our treasure map scenario, it would be like if your friend could be sure the map really came from you and hadn't been changed by someone else along the way.
+
+In summary, cryptography is the science of keeping information secure by encoding it in a way that only intended recipients can decode. It's a vital part of our digital lives, ensuring that our personal information, from messages to financial transactions, is kept private and secure.
