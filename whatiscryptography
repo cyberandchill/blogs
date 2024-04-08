@@ -9,3 +9,4 @@ The second type is like having a special lock and key for sending treasure chest
 Cryptography also ensures that the information hasn't been tampered with and can verify who sent the message. So, in our treasure map scenario, it would be like if your friend could be sure the map really came from you and hadn't been changed by someone else along the way.
 
 In summary, cryptography is the science of keeping information secure by encoding it in a way that only intended recipients can decode. It's a vital part of our digital lives, ensuring that our personal information, from messages to financial transactions, is kept private and secure.
+
